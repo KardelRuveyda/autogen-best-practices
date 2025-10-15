@@ -1,0 +1,41 @@
+# Sanal ortam
+.venv/
+venv/
+ENV/
+env/
+
+# Python derleme çıktıları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb.tmp
+
+# VS Code
+.vscode/
+.history/
+
+# Sistem
+.DS_Store
+Thumbs.db
+
+# Ortam değişkenleri
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.mypy_cache/
+.pytest_cache/

@@ -1,0 +1,6 @@
+autogen-ext[openai]
+autogen-agentchat
+python-dotenv
+autogen-ext[ollama]
+autogen-ext[anthropic]
+autogen-ext[semantic-kernel-anthropic]
