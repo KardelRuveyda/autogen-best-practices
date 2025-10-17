@@ -4,3 +4,4 @@ python-dotenv
 autogen-ext[ollama]
 autogen-ext[anthropic]
 autogen-ext[semantic-kernel-anthropic]
+autogen-core
